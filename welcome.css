@@ -1,0 +1,45 @@
+.navbar-nav .nav-link {
+    padding-right: 0;
+    padding-left: 0;
+    color:white;
+}
+.container1{
+    background-color: #cbe9c7;
+    display: flex;
+}
+.container1 img{
+      width: 200px ;
+      height: 200px;
+      margin: 2% 6%;
+}
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2{
+    background-color: #fff;
+    display: flex;
+}
+.container2 img{
+      width: 200px ;
+      height: 200px;
+      margin: 1% 6%;
+}
+.container2 .title{
+    padding: 5% 10%;
+}
+.container3{
+    background-color: #f0cece;
+    display: flex;
+}
+.container3 img{
+      width: 200px ;
+      height: 200px;
+      margin: 1% 5%;
+}
+.container3 .title{
+    padding: 5% 10%;
+}
+footer{
+    background-color: rgb(192, 240, 240);
+    text-decoration: none;
+}
